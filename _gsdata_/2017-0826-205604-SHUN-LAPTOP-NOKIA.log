@@ -1,0 +1,9 @@
+2017-08-26 20:56:04: File Monitoring not available on: mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e
+2017-08-26 20:56:04: On File Change Monitoring started on file:///D:/Projects/SymbianPython/oldpython
+2017-08-26 20:56:04: -- Analysis Started by On File Change First Full Analyze Upon File Monitoring Start
+2017-08-26 20:56:05: 变更：1， 冲突：， 复制时间：， 复制状态：， 错误： , All: 202
+2017-08-26 20:56:05: Left to Right: Copy File: 1 
+2017-08-26 20:56:05: == Sync Started by On File Change First Full Analyze Upon File Monitoring Start
+2017-08-26 20:56:05: 新建复制 'D:/Projects/SymbianPython/oldpython/api.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/api.py'
+2017-08-26 20:56:05: ===== ：同步完毕。时间：00:00:00，速度： 0 字节/s =====, 项目同步未必： 1，错误： 
+2017-08-26 20:56:05: 

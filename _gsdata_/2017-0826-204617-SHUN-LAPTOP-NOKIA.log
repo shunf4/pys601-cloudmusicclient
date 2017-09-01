@@ -1,0 +1,51 @@
+2017-08-26 20:46:17: -- Analysis Started by User Command
+2017-08-26 20:46:17: 左侧: State file does not exist: D:/Projects/SymbianPython/oldpython/_gsdata_/_file_state_v4._gs
+2017-08-26 20:46:19: 变更：41， 冲突：， 复制时间：， 复制状态：159， 错误： , All: 200
+2017-08-26 20:46:19: Right to Left: Copy File: 41 
+2017-08-26 20:46:19: ----- ：分析已结束。 历时 00:00:02， 速度： 20 个文件/秒 -----
+2017-08-26 20:46:19: 
+2017-08-26 20:46:23: New _gsdata_ folder(s) created, so rescan all job folders for their ghosts
+2017-08-26 20:46:23: == Sync Started by User Command
+2017-08-26 20:46:23: 创建文件夹 'D:/Projects/SymbianPython/oldpython/pic'
+2017-08-26 20:46:24: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/default.py' -> 'D:/Projects/SymbianPython/oldpython/default.py'
+2017-08-26 20:46:24: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/pic/actionbar_discover_normal.png' -> 'D:/Projects/SymbianPython/oldpython/pic/actionbar_discover_normal.png'
+2017-08-26 20:46:24: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/pic/fm_default_cover_largeex.scale-100.png' -> 'D:/Projects/SymbianPython/oldpython/pic/fm_default_cover_largeex.scale-100.png'
+2017-08-26 20:46:25: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/pic/list_detail_icn_fav.bmp' -> 'D:/Projects/SymbianPython/oldpython/pic/list_detail_icn_fav.bmp'
+2017-08-26 20:46:25: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/pic/list_detail_icn_fav.png' -> 'D:/Projects/SymbianPython/oldpython/pic/list_detail_icn_fav.png'
+2017-08-26 20:46:26: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/pic/list_detail_icn_fav_.bmp' -> 'D:/Projects/SymbianPython/oldpython/pic/list_detail_icn_fav_.bmp'
+2017-08-26 20:46:26: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/pic/list_detail_icn_faved.bmp' -> 'D:/Projects/SymbianPython/oldpython/pic/list_detail_icn_faved.bmp'
+2017-08-26 20:46:27: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/pic/list_detail_icn_faved.png' -> 'D:/Projects/SymbianPython/oldpython/pic/list_detail_icn_faved.png'
+2017-08-26 20:46:27: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/pic/list_detail_icn_faved_.bmp' -> 'D:/Projects/SymbianPython/oldpython/pic/list_detail_icn_faved_.bmp'
+2017-08-26 20:46:28: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/pic/pic.bmp' -> 'D:/Projects/SymbianPython/oldpython/pic/pic.bmp'
+2017-08-26 20:46:28: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/pic/pic.png' -> 'D:/Projects/SymbianPython/oldpython/pic/pic.png'
+2017-08-26 20:46:29: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/pic/play_disc.png' -> 'D:/Projects/SymbianPython/oldpython/pic/play_disc.png'
+2017-08-26 20:46:29: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/pic/play_fm_btn_love_prs.png' -> 'D:/Projects/SymbianPython/oldpython/pic/play_fm_btn_love_prs.png'
+2017-08-26 20:46:30: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/pic/play_fm_btn_loved.png' -> 'D:/Projects/SymbianPython/oldpython/pic/play_fm_btn_loved.png'
+2017-08-26 20:46:30: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/pic/play_fm_btn_loved_.bmp' -> 'D:/Projects/SymbianPython/oldpython/pic/play_fm_btn_loved_.bmp'
+2017-08-26 20:46:31: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/pic/play_icn_cmt.bmp' -> 'D:/Projects/SymbianPython/oldpython/pic/play_icn_cmt.bmp'
+2017-08-26 20:46:31: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/pic/play_icn_cmt.png' -> 'D:/Projects/SymbianPython/oldpython/pic/play_icn_cmt.png'
+2017-08-26 20:46:32: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/pic/play_icn_cmt_.bmp' -> 'D:/Projects/SymbianPython/oldpython/pic/play_icn_cmt_.bmp'
+2017-08-26 20:46:32: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/pic/play_icn_loop.bmp' -> 'D:/Projects/SymbianPython/oldpython/pic/play_icn_loop.bmp'
+2017-08-26 20:46:33: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/pic/play_icn_loop.png' -> 'D:/Projects/SymbianPython/oldpython/pic/play_icn_loop.png'
+2017-08-26 20:46:33: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/pic/play_icn_loop_.bmp' -> 'D:/Projects/SymbianPython/oldpython/pic/play_icn_loop_.bmp'
+2017-08-26 20:46:34: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/pic/play_icn_love.bmp' -> 'D:/Projects/SymbianPython/oldpython/pic/play_icn_love.bmp'
+2017-08-26 20:46:34: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/pic/play_icn_love.png' -> 'D:/Projects/SymbianPython/oldpython/pic/play_icn_love.png'
+2017-08-26 20:46:35: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/pic/play_icn_love_.bmp' -> 'D:/Projects/SymbianPython/oldpython/pic/play_icn_love_.bmp'
+2017-08-26 20:46:35: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/pic/play_icn_loved.bmp' -> 'D:/Projects/SymbianPython/oldpython/pic/play_icn_loved.bmp'
+2017-08-26 20:46:36: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/pic/play_icn_loved.png' -> 'D:/Projects/SymbianPython/oldpython/pic/play_icn_loved.png'
+2017-08-26 20:46:36: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/pic/play_icn_loved_.bmp' -> 'D:/Projects/SymbianPython/oldpython/pic/play_icn_loved_.bmp'
+2017-08-26 20:46:37: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/pic/play_icn_one.bmp' -> 'D:/Projects/SymbianPython/oldpython/pic/play_icn_one.bmp'
+2017-08-26 20:46:37: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/pic/play_icn_one.png' -> 'D:/Projects/SymbianPython/oldpython/pic/play_icn_one.png'
+2017-08-26 20:46:37: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/pic/play_icn_one_.bmp' -> 'D:/Projects/SymbianPython/oldpython/pic/play_icn_one_.bmp'
+2017-08-26 20:46:38: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/pic/play_icn_shuffle.bmp' -> 'D:/Projects/SymbianPython/oldpython/pic/play_icn_shuffle.bmp'
+2017-08-26 20:46:38: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/pic/play_icn_shuffle.png' -> 'D:/Projects/SymbianPython/oldpython/pic/play_icn_shuffle.png'
+2017-08-26 20:46:39: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/pic/play_icn_shuffle_.bmp' -> 'D:/Projects/SymbianPython/oldpython/pic/play_icn_shuffle_.bmp'
+2017-08-26 20:46:39: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/pic/play_needle.png' -> 'D:/Projects/SymbianPython/oldpython/pic/play_needle.png'
+2017-08-26 20:46:40: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/pic/play_needle_.png' -> 'D:/Projects/SymbianPython/oldpython/pic/play_needle_.png'
+2017-08-26 20:46:40: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/pic/SplashScreen.scale-100.bmp' -> 'D:/Projects/SymbianPython/oldpython/pic/SplashScreen.scale-100.bmp'
+2017-08-26 20:46:41: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/pic/SplashScreen.scale-100.png' -> 'D:/Projects/SymbianPython/oldpython/pic/SplashScreen.scale-100.png'
+2017-08-26 20:46:41: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/pic.bmp' -> 'D:/Projects/SymbianPython/oldpython/pic.bmp'
+2017-08-26 20:46:41: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/playlist.py' -> 'D:/Projects/SymbianPython/oldpython/playlist.py'
+2017-08-26 20:46:42: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/util.py' -> 'D:/Projects/SymbianPython/oldpython/util.py'
+2017-08-26 20:46:42: ===== ：同步完毕。时间：00:00:19，速度： 39.1 KB/s =====, 项目同步未必： 200，错误： 
+2017-08-26 20:46:42: 

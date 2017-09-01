@@ -1,0 +1,138 @@
+---Start Logging---
+68323.21875 - Util Init
+68323.453125 - splashScreen Loaded
+68327.90625 - modules Imported
+68327.921875 - vars Defined
+68331.9375 - plots Defined
+68332.03125 - functions Defined
+68332.0625 - Start Loading UI68332.40625 - End Drawing UI68335.203125 - Start Checking Network
+68339.578125 - refresh Error
+68341.015625 - Start Logining
+68341.34375 - .length = 23
+68341.359375 - contentlength = 23
+68341.390625 - ReLogin
+68341.859375 - .length = 4154
+68341.859375 - contentlength = 4154
+68342.6875 - .length = None
+68342.6875 - contentlength = None
+68345.453125 - Getting UserPLs
+68346.125 - .length = 206762
+68346.203125 - contentlength = 206762
+68354.609375 - Getting FirstPlaylist
+68355.234375 - .length = None
+68355.25 - contentlength = None
+68359.640625 - End Update List
+68359.65625 - End Init Playlist
+68359.6875 - useNewApi
+68360.09375 - .length = 6590
+68360.109375 - contentlength = 6590
+68360.578125 - listToUseOldApi: []
+68360.59375 - End Get Urls
+68360.59375 - End Update List By Dict
+68361.0 - [u'\u67e5\u627e', u'\u6b4c\u5355', u'\u64ad\u653e', u'\u5217\u8868']
+68379.140625 - Downloading From http://music.163.com/api/playlist/detail?id=895591694
+68379.140625 - .length = 99638
+68379.15625 - contentlength = 99638
+68379.171875 - Big File, Enable Instant ReadWrite
+68379.78125 - ReadWrite Completed
+68379.796875 - Download Succeed
+68388.75 - useNewApi
+68389.40625 - .length = 12311
+68389.40625 - contentlength = 12311
+68390.671875 - Song 0 Undercart!
+68390.671875 - Song 1 Undercart!
+68390.6875 - Song 11 Undercart!
+68390.703125 - listToUseOldApi: [0, 1, 11]
+68390.71875 - 0 cannot be searched! use album
+68391.03125 - .length = None
+68391.03125 - contentlength = None
+68392.375 - 1 cannot be searched! use album
+68392.734375 - .length = None
+68392.75 - contentlength = None
+68394.328125 - 11 cannot be searched! use album
+68394.65625 - .length = None
+68394.671875 - contentlength = None
+68396.1875 - End Get Urls
+68396.203125 - End Update List By Dict
+68396.296875 - songIndex 0
+68396.296875 - Start Fetching Lyric
+68396.59375 - .length = 1181
+68396.609375 - contentlength = 1181
+68396.640625 - End Get Lyric
+68396.734375 - @ Error :
+68396.734375 - exceptions.Exception: global name 's' is not defined
+@ Traceback (most recent call last):
+@   File "E:\private\fd8f9a7e\playlist.py", line 235, in fetchLyric
+@     lrcList = procLyric(hasLyric)
+@   File "E:\private\fd8f9a7e\playlist.py", line 44, in procLyric
+@     inLyric = s(inLyric)
+@ NameError: global name 's' is not defined
+68396.8125 - Start Fetching Pic
+68396.828125 - Start Downloading Pic at http://p1.music.126.net/_jZWFjnG-r6TdVv_wrSD8Q==/923589767332023.jpg?param=81y81 to e:\netease\pic\58386.png
+68397.34375 - Downloading From http://p1.music.126.net/_jZWFjnG-r6TdVv_wrSD8Q==/923589767332023.jpg?param=81y81
+68397.359375 - .length = 12987
+68397.375 - contentlength = 12987
+68397.390625 - Big File, Enable Instant ReadWrite
+68397.5 - Reset Progress Bar
+68397.578125 - ReadWrite Completed
+68397.609375 - Download Succeed
+68397.609375 - End Fetching Pic
+68397.625 - Start Fetching Song
+68398.234375 - Downloading From http://p2.music.126.net/UREG8pkJnX9Lck1QF4OGdg==/2767470767129267.mp3
+68398.265625 - .length = 3009372
+68398.28125 - contentlength = 3009372
+68398.375 - Big File, Enable Instant ReadWrite
+68398.421875 - Reset Progress Bar
+68413.65625 - ReadWrite Completed
+68413.6875 - Download Succeed
+68413.703125 - End Fetching Song
+68414.09375 - songCallback: 1, 2, 0
+68414.109375 - id Different68414.671875 - .length = 45
+68414.6875 - contentlength = 45
+68415.078125 - .length = 45
+68415.078125 - contentlength = 45
+68415.1875 - Start Fetching Pic
+68415.203125 - End Fetching Pic
+68416.078125 - Max Volume: 10
+68444.65625 - [u'\u67e5\u627e', u'\u6b4c\u5355', u'\u64ad\u653e', u'\u6b4c\u8bcd']
+68452.484375 - [u'\u67e5\u627e', u'\u6b4c\u5355', u'\u64ad\u653e', u'\u5217\u8868']
+68457.21875 - songIndex 7
+68457.234375 - Start Fetching Lyric
+68457.578125 - .length = 1477
+68457.59375 - contentlength = 1477
+68457.65625 - End Get Lyric
+68457.96875 - @ Error :
+68457.984375 - exceptions.Exception: global name 's' is not defined
+@ Traceback (most recent call last):
+@   File "E:\private\fd8f9a7e\playlist.py", line 235, in fetchLyric
+@     lrcList = procLyric(hasLyric)
+@   File "E:\private\fd8f9a7e\playlist.py", line 44, in procLyric
+@     inLyric = s(inLyric)
+@ NameError: global name 's' is not defined
+68458.03125 - Start Fetching Pic
+68458.0625 - Start Downloading Pic at http://p1.music.126.net/cPdfvuvLu5md-MHT8hcKjg==/18624627464667084.jpg?param=81y81 to e:\netease\pic\35157593.png
+68458.578125 - Downloading From http://p1.music.126.net/cPdfvuvLu5md-MHT8hcKjg==/18624627464667084.jpg?param=81y81
+68458.578125 - .length = 2362
+68458.609375 - contentlength = 2362
+68458.625 - Big File, Enable Instant ReadWrite
+68458.671875 - Reset Progress Bar
+68458.703125 - ReadWrite Completed
+68458.734375 - Download Succeed
+68458.75 - End Fetching Pic
+68458.765625 - Start Fetching Song
+68459.28125 - Downloading From http://m10.music.126.net/20170829231531/32ea1f5b97b2021bf7baebfa308b65df/ymusic/9395/eab2/3ce4/ed5348c3e8a3df4a52552518cd374b15.mp3
+68459.296875 - .length = 5315231
+68459.34375 - contentlength = 5315231
+68459.46875 - Big File, Enable Instant ReadWrite
+68459.53125 - Reset Progress Bar
+68496.484375 - ReadWrite Completed
+68496.5 - Download Succeed
+68496.53125 - End Fetching Song
+68497.015625 - songCallback: 1, 2, 0
+68497.046875 - id Different68497.515625 - .length = 34
+68497.53125 - contentlength = 34
+68497.59375 - Start Fetching Pic
+68497.59375 - End Fetching Pic
+68498.59375 - Max Volume: 10
+68502.296875 - [u'\u67e5\u627e', u'\u6b4c\u5355', u'\u64ad\u653e', u'\u6b4c\u8bcd']
+68594.5625 - ===== End ======

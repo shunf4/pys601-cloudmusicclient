@@ -1,0 +1,107 @@
+---Start Network Capturing---
+<Encryped Data> =
+<Request URI> http://music.163.com/weapi/v1/discovery/recommend/songs?csrf_token=
+<Request Body> params=kO0wjx%2F6lQ5JxCNZ4AmsvI6zj%2BlRWXz47jDS5CmqXLg%3D&encSecKey=3155f3bbe1ece0c7beb2d648f24d09704696d2d4e4a3f685269455a0c96eddf6685193a8dcdcf897ea8b75622243528f14f2550d20f5f9873fdef7cbdf16cc425c695c9363652ba36243c18fa9ef5cf3e673e8d4ccc13be9a2ec8bfcb7a1a1e3b7bcca77ebfd252f1281e2c306e56520ca2d3c22c4084cca8acaa5bae450387e
+<Response Cookie> 
+None
+<Response Body> 
+   Length: 23
+<Encryped Data> phone=18701771786&password=40047469b77ba82fb075b8bb14da351c&rememberLogin=true
+<Request URI> http://music.163.com/weapi/login//cellphone
+<Request Body> params=AaYNxgPydvixNPiAo79U7Uy8g%2Byf9wto0DPQ%2FDNwBjlG1qEFuUInV%2BYeapxHug0lfmH2wSi%2BY7o3T8ZIPTB17G1LwXUmhT0BWbjBoushrLeErDDYV2YCwonP17n5geBeW7rcDqukjZ8xuq1P4KIbnetthRcaIx8kwrtQl%2B2tgXIkYVWQZXXyHV8kV%2FMG%2BuG5&encSecKey=57a6aee17d5e6016e5e57907b68a9256de7b5a6a767863dff893e7edd3830c0a12501ad557f1ea9537b1e8cf6a2eef041a0d46ad120c82f55e0f7fd3aaf0f9c7d9d877acb5a06d44b627a29b1d7db856ef82c66d53dd8d3f651b6ed5681ed573cf00fb3b4373fa0e5c6a56d8d56626dbaa01768907e1c42eb19a78d347aa731c
+<Response Cookie> 
+__remember_me=true; Expires=Wed, 13 Sep 2017 14:49:43 GMT; Path=/; HttpOnly, MUSIC_U=fd1c79d1c157c9526738c07ed336df89aafcb9ddc6a316931766891af46614e8b88ac751ce8787d482914fd3b1e0f1ffb4c6e05649d650bf; Expires=Wed, 13 Sep 2017 14:49:43 GMT; Path=/; HttpOnly, __csrf=491f944188a7179b4b829fa08a7e96fc; Expires=Wed, 13-Sep-2017 14:49:53 GMT; Path=/
+<Response Body> 
+   Length: 4154
+<Encryped Data> =
+<Request URI> http://music.163.com/weapi/v1/discovery/recommend/songs?csrf_token=
+<Request Body> params=s8x9XyVOPIRNsd7cEkb2EliofMpUp06hIE4oYNt4MWw%3D&encSecKey=a1591ff894503ac11c444a43e58290a947a12f9c8b4b4ed765d5687050faf6e4c6678e8d50e4b32ac1be137067094fe3b0ae43a7fdea3e582e54902fd3f482a2506d0443f76fd544fdb1f784e43caa515809fadaa729d84b3a778a779947e770bc4e962d6723ea8f57cc27733c886c9b1c7503632300965574da79e850a216c1
+<Response Cookie> 
+None
+<Response Body> 
+   Length: 53357
+<Request URI> http://music.163.com/api/user/playlist/?offset=0&limit=1000&uid=0
+<Request Body> 
+<Response Cookie> 
+None
+<Response Body> 
+   Length: 206762
+<Encryped Data> =
+<Request URI> http://music.163.com/weapi/v1/discovery/recommend/songs?csrf_token=
+<Request Body> params=%2BAFxN4u4dJ3JQa%2BtqvV7ldPPAOrRzuc7d9soOxR0nB0%3D&encSecKey=7eb66da29bd2ec32780be3dd5a0e05edd772be9e1480008acced69cd1745a759c1b031b5d75bb9d0cdf435ed474ed9260d9aed35c6bc598afe970d81703ce98799902a856031ac8cb1069e22dbe8e7064d8f276585c228ca873c8a484c1ae63aceb47e09e05792f8df0f48c2342564fc78ec1c4c2e293fcb3a0b62d69522dab0
+<Response Cookie> 
+None
+<Response Body> 
+   Length: 53357
+<Encryped Data> ids=%5B29017114L%2C+22701041L%2C+275449L%2C+25862810L%2C+4084037L%2C+3915678L%2C+473964639L%2C+2698075L%2C+18072373L%2C+429482263L%2C+833016L%2C+29836524L%2C+27506733L%2C+17086516L%2C+486999077L%2C+353415L%2C+472380296L%2C+411314660L%2C+444524422L%2C+16666729L%5D&br=96000
+<Request URI> http://music.163.com/weapi/song/enhance/player/url?csrf_token=
+<Request Body> params=vpD5OKfPF8HP3%2FkKb5d8eYGQ3GkXY1e5rXpVC2pVVD%2Faw7BZnbK%2FiiCGMz%2FFQKji%2Bq6vnmZ9lCIUjvEUu7DFKr0XsG3YnVqfGd%2FnGQ%2FsldVMeGXA4Ec6qawHjRF7cfUxF7BTIZJbTisWFVsyIV8oVOSooyf2tPwZ8KqF39%2FW15X9nDO5s%2B%2F%2F%2FhMRdE6HjwaV4eE%2FBWCGbBPkATFHqNCIoZ0hLb%2FwprDex6xi2liYyXMw02H2GRr9ZUJO53es247Y0CgwynbLWWNXpa1ZwGm9DUDcnDNQgpWYzDTzD13vzLGVrXu6jwyyY6vYM7%2BAJdxYMvBYYhJTbY4UPRX3jE%2FHIN5tE2W2%2FFWj%2F2tRzZLs4%2FdMu2sVmxzwp%2BG1zRx4dh8CddFSHTtzOUM3zaJ3XDyJ7A%3D%3D&encSecKey=3125c7f49ac3f77417c77d5f4c8e9ba43419bba4386eade699b1cbff71b42de3fb9c5f3d6e5315adaf24bc4038b182ba33a120ae60a37656032fbdd91e4f50e9636e05110c96b1703f56c017f6f2ee5f4ff6eeafc909c137c5912bde9d8024880c2f62d3e17f0ad8d2f099f6723c1f75919bce18644f444d2f022f0daf2e6fe3
+<Response Cookie> 
+None
+<Response Body> 
+   Length: 6590
+<Download> http://music.163.com/api/playlist/detail?id=895591694 To: e:\netease\cache\playlist\playlist_895591694.txt
+<FileSize> 99638
+<Encryped Data> ids=%5B613891L%2C+28814946L%2C+26352060L%2C+2080326L%2C+447280589L%2C+417833164L%2C+468877745L%2C+458496158L%2C+448917683L%2C+28708061L%2C+855040L%2C+27955405L%2C+451126618L%2C+451701201L%2C+445846008L%2C+247945L%2C+22740588L%2C+29724346L%2C+2011443L%2C+21398607L%2C+1674192L%2C+407002116L%2C+407002130L%2C+446508744L%2C+444548402L%2C+29751518L%2C+442869035L%2C+40249171L%2C+442867033L%2C+1343526L%2C+28854360L%2C+387837L%2C+32358437L%2C+1791050L%2C+454435535L%2C+433681979L%2C+382169L%2C+28082023L%2C+19264098L%5D&br=96000
+<Request URI> http://music.163.com/weapi/song/enhance/player/url?csrf_token=
+<Request Body> params=4wxcKyZzOTPIr57lskFkJsUScXvEGqZ6ZaZIfzAWpxO75yunRTNUqpXnhJgNw%2BT6P7ldQAQkSKMIHC%2BLMqB8eTkEmTlCCx11Wqeq5urQNhVFkM2BLOV5pDHWTt13SjwwE1U10osuhL0ziHtE8Vek5cXCnDhMU3zuxraJAEZ4WMU7zpagLQ1msahWMGfaK1HBkP2kmuOX8it7PgxJd5HkqmyroMeMt%2BroQ8m2y4xypf9BWQLPiUChlWO%2Fy5%2Bb%2BHzcdo%2F0De3H%2FvqChwcGJSp4HN9dgMqTpeHlOHQFz%2FDeHolOk09BfMbkgrF1QxTBb0OC9cha0pldWcaCko3euQXjB5J0UIf03fDSEg6jYqhVF9XcrYJB89x%2FqId9EVI2djfXdD28WczsLdCgca8SopJi6O1FKDK%2Fh%2Bnt0qULn2IaR5v6%2FMdOfz7d7TmCPS3Hdxz42R8NcmIU5B6%2Bu0ifCwIUzPNvJISxvnNTN5bXVMyidVu5hw5UDjkNpK%2BeQUDXyzI%2BPjOuXaKP%2FE1oWsZ0uOEgeKBTKx%2Fn9foYO52%2FfLo5B%2BwrVnAvlW9hjGJjsa4giDl8FC1xMHHd%2Bnh00qlOSBvMsbh%2BEONGWfjbkCXB%2FyFTCGgjdi4Humi2kLpK%2FeEckiiKNn3GU5t%2BYYERUhLh72r16hj4PHpwuITLh1EFeez%2BCrBNLuupn23TToFs5VPuG%2FQewmo7My88PWh%2B3cguRCeuiebqvSy53ZUNQDpYXuC25k0%3D&encSecKey=019876bdcc2e567197ab3471090c43c72338015a7570fdca9ea735a5de202527ad7daa504bfcef5b8c1991975c7fbbfe20006294617f9897e2d518ce78904cb0d55cbd89ac40a74a3f6adc665f935fc85ad5eb5e848bbb96e8d6e1575ff6ab9acd068587bd27047c4284d8fc8945e269a961c64a14f56a87ad7cf6b2581b0979
+<Response Cookie> 
+None
+<Response Body> 
+   Length: 12311
+<Request URI> http://music.163.com/api/album/58386?id=58386
+<Request Body> 
+<Response Cookie> 
+None
+<Response Body> 
+   Length: 13144
+<Request URI> http://music.163.com/api/album/2901101?id=2901101
+<Request Body> 
+<Response Cookie> 
+None
+<Response Body> 
+   Length: 15270
+<Request URI> http://music.163.com/api/album/2698251?id=2698251
+<Request Body> 
+<Response Cookie> 
+None
+<Response Body> 
+   Length: 12910
+<Request URI> http://music.163.com/api/song/lyric?id=613891&lv=-1&kv=-1&tv=-1
+<Request Body> 
+<Response Cookie> 
+None
+<Response Body> 
+   Length: 1181
+<Download> http://p1.music.126.net/_jZWFjnG-r6TdVv_wrSD8Q==/923589767332023.jpg?param=81y81 To: e:\netease\pic\58386.png
+<FileSize> 12987
+<Download> http://p2.music.126.net/UREG8pkJnX9Lck1QF4OGdg==/2767470767129267.mp3 To: e:\netease\613891_96000.mp3
+<FileSize> 3009372
+<Request URI> http://music.163.com/api/radio/like?alg=itembased&trackId=613891&like=true&time=25
+<Request Body> 
+<Response Cookie> 
+None
+<Response Body> 
+   Length: 45
+<Request URI> http://music.163.com/api/radio/like?alg=itembased&trackId=613891&like=false&time=25
+<Request Body> 
+<Response Cookie> 
+None
+<Response Body> 
+   Length: 45
+<Request URI> http://music.163.com/api/song/lyric?id=458496158&lv=-1&kv=-1&tv=-1
+<Request Body> 
+<Response Cookie> 
+None
+<Response Body> 
+   Length: 1477
+<Download> http://p1.music.126.net/cPdfvuvLu5md-MHT8hcKjg==/18624627464667084.jpg?param=81y81 To: e:\netease\pic\35157593.png
+<FileSize> 2362
+<Download> http://m10.music.126.net/20170829231531/32ea1f5b97b2021bf7baebfa308b65df/ymusic/9395/eab2/3ce4/ed5348c3e8a3df4a52552518cd374b15.mp3 To: e:\netease\458496158_96000.mp3
+<FileSize> 5315231
+<Request URI> http://music.163.com/api/radio/like?alg=itembased&trackId=458496158&like=true&time=25
+<Request Body> 
+<Response Cookie> 
+None
+<Response Body> 
+   Length: 34
