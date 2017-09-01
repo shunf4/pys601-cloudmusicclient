@@ -340,6 +340,7 @@ class Playlist:
                 desPath = 'E:\\Music\\%s - %s.lrc' % (cn(songDict['name']), cn(songDict['artists'][0]['name']))
                 desPath = nc(cn(desPath))
                 f = os.open(desPath , os.O_WRONLY|os.O_CREAT)
+                os.write(f, STR_UTF8_BOM)
                 os.write(f, nc(cn(self.hasLyric)))
                 os.close(f)
                 prompt += cn('和') + cn(os.path.basename(desPath))
