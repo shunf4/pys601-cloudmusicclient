@@ -1009,7 +1009,7 @@ def helpText():
     appuifw.query(cn('本程序照顾s60v3机型，所以高版本机型请在设置-播放设置-音量调节以满分10000按比例调节音量。'),'query')
     
 def aboutText():
-    appuifw.query(cn('网易云音乐Python S60 Alpha 0.0.7版\nBy 顺'),'query')
+    appuifw.query(cn('网易云音乐PyS60_1 0.0.8版\nBy 顺'),'query')
 
 def selAPI():
     appuifw.query(cn('新的API修复部分音乐的高音质，但造成下架音乐无法读取和下载歌曲IDv3信息错误，还会使加载速度变慢。'),'query')
